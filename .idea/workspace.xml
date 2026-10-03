@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26b376be-7231-44e8-8cef-f4f314632369" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Notes/Common-Erros.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Java-Cheatsheet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Java-Roadmap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Naming-Conventions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Useful-Resources.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anupama/bootcamp/fundamentals/comments/CommentsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anupama/bootcamp/fundamentals/helloworld/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anupama/bootcamp/fundamentals/variables/ClassVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anupama/bootcamp/fundamentals/variables/InstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anupama/bootcamp/fundamentals/variables/LocalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anupama/bootcamp/fundamentals/variables/VariableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/arrays/ArrayTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/arrays/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/arrays/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/arrays/OneDimensionalArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/arrays/Searching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/arrays/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/arrays/TwoDimensionalArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/Comments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/EscapeCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/NamingConvention.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/Printing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/TypeCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/basics/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/conditions/ComparisonOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/conditions/ElseIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/conditions/IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/conditions/IfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/conditions/LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/conditions/NestedIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/conditions/SwitchExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/input/MultipleInputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/input/ScannerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/input/UserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/loops/BreakContinue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/loops/DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/loops/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/loops/NestedLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/loops/PatternPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/loops/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/methods/MethodOverloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/methods/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/methods/Parameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/methods/Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/methods/ReturnValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/methods/Scope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/strings/StringBasics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/strings/StringBuilderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/strings/StringComparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anupama/bootcamp/strings/StringMethods.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Anupama-Omiru-Dasanayake"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Anupama-Omiru-Dasanayake/Java-Bootcamp.git",
+    "accountId": "1fa24697-7688-4e4f-9861-abc33d1f6609"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3GtJVf0KpC34m4567sgxZAotDOZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.LocalVariable.executor": "Run",
+    "Application.VariableDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ASUS/OneDrive - University of Westminster/ALL_Projects_GitHub/Java/Java-Bootcamp",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java-Bootcamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java-Bootcamp" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26b376be-7231-44e8-8cef-f4f314632369" name="Changes" comment="" />
+      <created>1784784959633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784784959633</updated>
+      <workItem from="1784784960733" duration="14301000" />
+      <workItem from="1784875972424" duration="671000" />
+      <workItem from="1784877458878" duration="2319000" />
+      <workItem from="1785041439696" duration="1804000" />
+      <workItem from="1785687952014" duration="4036000" />
+      <workItem from="1789996598232" duration="3090000" />
+      <workItem from="1790142356099" duration="1221000" />
+      <workItem from="1790312972481" duration="1416000" />
+      <workItem from="1790410014001" duration="3764000" />
+      <workItem from="1790658743008" duration="2552000" />
+      <workItem from="1790909645973" duration="9261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
